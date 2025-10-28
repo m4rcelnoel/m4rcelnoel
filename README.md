@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning more about **TailwindCSS**
 
-- 🥅 2024 Goals: Learn **more**
+- 🥅 Goals: Learn **more**
 
 - 📫 How to reach me **marcel.gruber@buddster.de**
 
